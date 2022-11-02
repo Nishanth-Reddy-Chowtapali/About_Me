@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Nishanth Reddy</string>
+    <string name="yellow_start">Yellow Star</string>
+    <string name="bio">
+        \n Hi, my name is Nishanth Reddy.
+        \n\n I love thriller movies and adventure games.
+        \n\n I love to cook food and try varieties of food.
+        \n I\'m an award-winning content writer who has eight years of experience creating compelling articles and short stories. I\'m continuously searching for new topics and stories to capture the attention of new readers. With my knowledge and experience, I can help you fulfill your content creation goals.
+        \n\n\n\n\n\n\n\n I love to watch anime
+        \n\n\n the end
+    </string>
+    <string name="what_is_your_nick_name">What is your nickname</string>
+    <string name="done">Done</string>
+    <string name="done_button">Done</string>
+</resources>
